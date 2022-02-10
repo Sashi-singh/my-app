@@ -1,0 +1,150 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+.body{
+  background-color: hotpink;
+  height: 50px;
+  width: 360px;
+  position: absolute;
+  
+}
+h1{
+  left: 10px;
+  top: 10px;
+  position: absolute;
+  font-weight: bold;
+}
+.bar{
+  background-image: url(bar.jpg);
+  background-size: cover;
+position: absolute;
+left: 4px;
+ top: 51px;
+  height: 8vh;
+  width: 79%;
+}
+
+.cart{
+  background-image: url(cart.jpg);
+  background-size: cover;
+
+  position: absolute;
+  left: 80%;
+  height: 8vh;
+  width: 8vh;
+  top: 52px;
+  
+}
+z nav a{
+  color: black;
+  top: 10pt;
+  font: 0.4pt;
+  left: 18pt;
+  position: absolute;
+  padding: 1px 1px;
+
+}
+h2{
+  font-size: 18pt;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  top: 132px;
+  left: 24%;
+}
+
+
+  h3{
+    font-size: 18pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 165px;
+    left: 9%;
+  }
+
+  
+
+  h4{
+    font-size: 12pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    background-color: lightgrey;
+    
+    top: 210px;
+    left: 13%;
+  }
+  .main{
+    position: absolute;
+    top: 260px;
+    left: 10px;
+  }
+  
+  .west{
+    position: absolute;
+    top: 260px;
+    left: 190px;
+  }
+  .shirt{
+    position: absolute;
+    top: 445px;
+    left: 190px;
+  }
+  .tool{
+    position: absolute;
+    top: 670px;
+    left: 14px;
+  }
+h5{
+  
+    font-size: 16pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    background-color: lightgray;
+    top: 600px;
+    left: 15%;
+    border-radius: 10deg;
+}
+  .sign{
+    position: absolute;
+    top: 1000px;
+    left: 14px;
+  }
+  
+h6{
+     font-size: 13pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    background-color: lightpink;
+    top: 1360px;
+    left: 2%;
+    right: 5%;
+}
+.box{
+  position: absolute;
+  left: 50px;
+  top: 16px;
+
+}
+h7{
+  position: absolute;
+
+  top: 1430px;
+  left: 3%;
+  right: 5%;
+  
+}
+h8{
+  position: absolute;
+
+  
+  top: 2560px;
+  left: 5%;
+  right: 20%;
+  
+}
+.pic{
+  position: absolute;
+  top: 2300px;
+  
+}
